@@ -1,6 +1,8 @@
-this is sample code
 
-git commands i learnt
-1git init
-2git add
-3git commit
+<html>
+<head>
+<body>
+<h1> go ahead </h1>
+</body>
+</head>
+</html>
